@@ -1,0 +1,11 @@
+inherit rox
+
+NAME="rox-mime-editor"
+VERSION=0.6
+RELEASE=2
+CATEGORY="ROX"
+SUMMARY="ROX mime-type database editor"
+
+SRC_URI="mirror://sourceforge/rox/${ORIG_PN}-${PV}.tar.bz2"
+
+ROX_APP="MIME-Editor"
